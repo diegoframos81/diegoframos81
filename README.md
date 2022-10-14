@@ -24,4 +24,4 @@
 
 Apaixonado por tecnologia, sempre buscando aprender mais e mergulhar em novas programções.
 
-![Snake animation] (https://github.com/diegoframos81)
+
