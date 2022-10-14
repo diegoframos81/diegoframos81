@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diêgo-ramos-137430248/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giga_mtb/)
 
-
 <div>
 <a href="https://github.com/diegoframos81"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoframos81&show_icons=true&theme=github_dark&count_private=true">
@@ -24,3 +23,5 @@
 </div><br/>
 
 Apaixonado por tecnologia, sempre buscando aprender mais e mergulhar em novas programções.
+
+![Snake animation] (https://github.com/diegoframos81)
