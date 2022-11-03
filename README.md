@@ -26,7 +26,7 @@
   ## Tecnologias que irei estudar
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="phyton" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" />
+  <img align="center" alt="phyton" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   
 </div><br/>
 
