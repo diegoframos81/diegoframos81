@@ -32,7 +32,7 @@ Gosto de problemas em que o dado chega sujo, espalhado e sem dono — e sai dele
 <tr>
 <td width="50%" valign="top">
 
-**`# técnico`**
+**`# hard skills`**
 
 - Pipelines ETL/ELT em Python e SQL, versionados e orquestrados
 - Modelagem dimensional (star schema) e camadas semânticas para BI
@@ -43,7 +43,7 @@ Gosto de problemas em que o dado chega sujo, espalhado e sem dono — e sai dele
 </td>
 <td width="50%" valign="top">
 
-**`# humano`**
+**`# soft skills`**
 
 - Traduzo entre negócio e técnica: entendo a pergunta antes de escolher a ferramenta
 - Autonomia para levantar requisito, propor e entregar
