@@ -1,137 +1,174 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Diego%20Ramos&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descAlign=50"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Diego+Ramos+%F0%9F%91%8B;Cientista+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+Fullstack+%F0%9F%92%BB;Especialista+em+An%C3%A1lise+de+Dados+%F0%9F%93%8A;Bem-vindo+ao+meu+perfil!+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0b0f14&text=Diego%20Francisco%20Ramos&fontColor=7ee787&fontSize=42&fontAlign=50&fontAlignY=42&desc=%24%20whoami%20%E2%80%94%20Data%20Engineer&descColor=6e7f92&descSize=16&descAlignY=68" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=7EE787&background=0B0F1400&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=diego%40data%3A~%24+whoami;%3E+Data+Engineer+%7C+Python+%7C+SQL+%7C+Cloud;diego%40data%3A~%24+cat+objetivo.txt;%3E+Transformo+dados+brutos+em+decis%C3%A3o;diego%40data%3A~%24+ls+pipelines%2F;%3E+extra%C3%A7%C3%A3o+%C2%B7+transforma%C3%A7%C3%A3o+%C2%B7+carga+%C2%B7+dashboard" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/diegoframos"><img src="https://img.shields.io/badge/in-linkedin%2Fdiegoframos-d5dde6?style=flat-square&labelColor=0b0f14&color=10161d" /></a>
+<a href="https://github.com/diegoframos81"><img src="https://img.shields.io/badge/gh-diegoframos81-d5dde6?style=flat-square&labelColor=0b0f14&color=10161d" /></a>
+<img src="https://komarev.com/ghpvc/?username=diegoframos81&style=flat-square&color=10161d&label=visitas&labelColor=0b0f14" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 Sobre Mim
+## `$ cat sobre_mim.txt`
 
-```typescript
-const diego = {
-    nome: "Diego Ramos",
-    idade: 22,
-    localizacao: "Pernambuco, Brasil 🇧🇷",
-    formacao: "Ciência da Computação",
-    especialidades: ["Análise de Dados", "Desenvolvimento Fullstack"],
-    stack_atual: ["React", "JavaScript", "Node.js", "Python"],
-    aprendendo: ["Arquitetura de Software", "Cloud Computing"],
-    hobbies: ["Programação", "Tecnologia", "Resolver Problemas"],
-    contato: "Sempre aberto a novas oportunidades! 🚀"
-};
+```text
+formação      Ciência da Computação
+função        Data Engineer
+foco          pipelines, automação de coleta e camada analítica
 ```
 
-- 🎓 Formado em **Ciência da Computação**
-- 📊 Especialista em **Análise de Dados**
-- 💻 Desenvolvedor **Fullstack**
-- 🌱 Sempre buscando aprender novas tecnologias
-- 💬 Pergunte-me sobre **JavaScript, React, Python e Análise de Dados**
-- 📫 Como me encontrar: **LinkedIn abaixo** ⬇️
+Construo o caminho completo do dado: extração em sistemas legados e APIs, pipelines confiáveis, modelagem para BI e os painéis que a operação abre todo dia.
 
----
+Gosto de problemas em que o dado chega sujo, espalhado e sem dono — e sai dele processo que sobrevive sem mim.
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💻 Linguagens
-<div>
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" />
-</div>
+**`# técnico`**
 
-### ⚙️ Frameworks & Bibliotecas
-<div>
-  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0D1117" />
-</div>
+- Pipelines ETL/ELT em Python e SQL, versionados e orquestrados
+- Modelagem dimensional (star schema) e camadas semânticas para BI
+- Automação de coleta: web scraping, APIs, RPA leve
+- Power BI com DAX e Power Query
+- Nuvem (AWS, Azure) e containers
 
-### 📊 Análise de Dados
-<div>
-  <img src="https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0D1117" />
-</div>
+</td>
+<td width="50%" valign="top">
 
-### 🗄️ Bancos de Dados
-<div>
-  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" />
-</div>
+**`# humano`**
 
-### 🧰 Ferramentas
-<div>
-  <img src="https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117" />
-</div>
+- Traduzo entre negócio e técnica: entendo a pergunta antes de escolher a ferramenta
+- Autonomia para levantar requisito, propor e entregar
+- Documento como se o próximo a mexer no código não pudesse me ligar
+- Prefiro processo a heroísmo
 
----
+</td>
+</tr>
+</table>
 
-## 📊 Estatísticas do GitHub
+<br/>
+
+## `$ ls stack/`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoframos81&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFBF&icon_color=00BFBF&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoframos81&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00BFBF&text_color=c9d1d9&bg_color=0d1117"/>
+
+`linguagens/`
+
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,ts,js,react&theme=dark" />
+
+`dados/`
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,kafka&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/spark-0b0f14?style=flat-square&logo=apachespark&logoColor=E25A1C" />
+<img src="https://img.shields.io/badge/airflow-0b0f14?style=flat-square&logo=apacheairflow&logoColor=017CEE" />
+<img src="https://img.shields.io/badge/dbt-0b0f14?style=flat-square&logo=dbt&logoColor=FF694B" />
+<img src="https://img.shields.io/badge/pandas-0b0f14?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/databricks-0b0f14?style=flat-square&logo=databricks&logoColor=FF3621" />
+
+`cloud_devops/`
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions,linux,bash&theme=dark" />
+
+`analytics/`
+
+<img src="https://img.shields.io/badge/power%20bi-0b0f14?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/excel-0b0f14?style=flat-square&logo=microsoftexcel&logoColor=217346" />
+<img src="https://img.shields.io/badge/jupyter-0b0f14?style=flat-square&logo=jupyter&logoColor=F37626" />
+<img src="https://img.shields.io/badge/django-0b0f14?style=flat-square&logo=django&logoColor=white" />
+
 </div>
+
+<br/>
+
+## `$ ls projetos/`
+
+```text
+ls: nenhum repositório público ainda — organizando para publicação
+```
+
+<!--
+Quando publicar, remova o bloco acima e descomente este (um card por repositório):
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoframos81&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF" alt="GitHub Streak" />
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/diegoframos81/NOME-DO-REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoframos81&repo=NOME-DO-REPO&bg_color=0b0f14&title_color=7ee787&text_color=d5dde6&icon_color=58a6ff&border_color=1c2530" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/diegoframos81/OUTRO-REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoframos81&repo=OUTRO-REPO&bg_color=0b0f14&title_color=7ee787&text_color=d5dde6&icon_color=58a6ff&border_color=1c2530" />
+</a>
+</td>
+</tr>
+</table>
 </div>
+-->
 
----
+<br/>
 
-## 🏆 Troféus
+## `$ git log --stat`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diegoframos81&theme=tokyonight&row=1&column=7&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=diegoframos81&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b0f14&title_color=7ee787&text_color=d5dde6&icon_color=58a6ff&border_color=1c2530&locale=pt-br" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoframos81&layout=compact&langs_count=8&bg_color=0b0f14&title_color=7ee787&text_color=d5dde6&border_color=1c2530&locale=pt-br" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=diegoframos81&locale=pt_BR&background=0b0f14&border=1c2530&stroke=1c2530&ring=7ee787&fire=58a6ff&currStreakLabel=7ee787&currStreakNum=d5dde6&sideLabels=d5dde6&sideNums=d5dde6&dates=6e7f92" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoframos81&bg_color=0b0f14&color=d5dde6&line=7ee787&point=58a6ff&area=true&area_color=0b1a12&border_color=1c2530&title_color=7ee787&custom_title=%24%20git%20log%20--since%3D%2731%20days%20ago%27" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=diegoframos81&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
 </div>
 
----
+<br/>
 
-## 🐍 Atividade no GitHub
+## `$ ./snake --contributions`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoframos81&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFBF&line=00BFBF&point=FFFFFF" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoframos81/diegoframos81/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoframos81/diegoframos81/output/github-snake.svg" />
+  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/diegoframos81/diegoframos81/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
----
+<br/>
 
-## 🌐 Conecte-se Comigo
+## `$ cat contato.txt`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diego-ramos-137430248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/diegoframos81">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
 
----
-
-<div align="center">
-  
-### 👀 Visitantes
-
-<img src="https://profile-counter.glitch.me/diegoframos81/count.svg" />
+<a href="https://www.linkedin.com/in/diegoframos"><img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=7ee787" /></a>
+<a href="https://github.com/diegoframos81"><img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=7ee787" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer"/>
+<br/>
+
+```text
+$ echo "Dado bom é o que alguém consegue usar sem precisar te perguntar o que ele significa."
+$ exit 0
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0b0f14" width="100%" />
